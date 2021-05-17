@@ -1,0 +1,24 @@
+input 
+how many years will it take to get to a population abouve 
+a certain number, 5000 starting at a population of 1500
+plus 5 percent every year plus 100 people
+
+
+function
+
+
+
+output
+15 years
+
+
+1. //function statement named nbYear with four parameters
+//p0, percent, aug, p
+
+2. //for loop with global variable y assigned to 0; condition p0 less than p
+//y plus plus
+
+3. //p0 assigned to p0 times paranthasis 1 plus percent devided by 100 close paran
+//plus aug
+
+4.   //return y
