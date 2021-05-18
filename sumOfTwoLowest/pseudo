@@ -1,0 +1,19 @@
+input 
+an array of numbers, we want to add the smalles digits up
+
+function
+
+
+output
+9, 3, 3, 5, 8, = 6
+
+
+1. //function statement named sumTwoSmallestNumbers with parameter numbers
+
+2. //sort method called on numbers with parameters of two letters
+// used to mean compare numbers, than the statemetnt of sort a - b
+// compare numbers
+
+3. /// return numbers at 0 index plus numbers at 1 index, this way we add the first
+//smalles integers to geather
+
